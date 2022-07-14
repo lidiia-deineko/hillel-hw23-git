@@ -11,3 +11,5 @@ console.log('feature-2 commit 1')
 console.log('feature-2 commit 2')
 
 console.log('release commit 1')
+
+console.log('release commit 2')
